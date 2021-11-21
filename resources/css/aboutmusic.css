@@ -1,0 +1,15 @@
+body {
+    margin: 0px;
+}
+.music {
+background-image: url('../images/whereisdonnie.png'); 
+background-position: center;
+background-repeat: space;
+background-size: cover;
+height: 2000px;   
+font-family: 'Courier New', Courier, monospace;
+font-style: italic;
+text-align: left; 
+font-size: 20px;
+color: rgb(15, 15, 15)
+}

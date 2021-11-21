@@ -1,0 +1,15 @@
+body {
+    margin: 0px;
+}
+.press {
+background-image: url('../images/Talk-fb.png'); 
+background-position: center;
+background-repeat: space;
+background-size: cover;
+height: 1000px;   
+font-family: 'Courier New', Courier, monospace;
+font-style: italic;
+text-align: left; 
+font-size: 20px;
+color: rgb(206, 200, 200)
+}

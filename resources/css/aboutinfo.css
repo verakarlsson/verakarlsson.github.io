@@ -1,0 +1,28 @@
+body {
+       margin: 0px;
+}
+.info {
+background-image: url('../images/Andy-Liberty.png'); 
+background-position: center;
+background-repeat: space;
+background-size: cover;
+height: 4000px;   
+font-family: 'Courier New', Courier, monospace;
+font-style: italic;
+text-align: left; 
+font-size: 20px;
+color: rgb(97, 240, 104)
+
+}
+.exhibitions {
+text-align: right;
+font-size: 35px;
+color: rgb(0, 0, 0)
+}
+{
+.works 
+}
+.alignright {
+	float: right;
+} 
+        

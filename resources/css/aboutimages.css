@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+}
+.images {
+background-image: url('../images/Sculpture-Untitled.png'); 
+background-position: center;
+background-repeat: space;
+background-size: cover;
+height: 1000px;   
+font-family: 'Courier New', Courier, monospace;
+font-style: italic;
+text-align: left; 
+font-size: 20px;
+color: rgb(206, 200, 200)
+}
+.maudline
+{
+background-image: url('../images/MaudlinE.png');
+background-position: center;
+height: 1000px;
+background-image: url('../images/MaudlinEcstasyinstallation.png');  
+background-position: center;
+background-repeat: space;
+height: 1000px;
+font-family: 'Courier New', Courier, monospace;
+font-style: italic;
+text-align: left; 
+font-size: 20px;
+color: rgb(206, 200, 200)        
+}
