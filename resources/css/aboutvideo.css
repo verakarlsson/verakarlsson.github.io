@@ -1,17 +1,18 @@
 body {
     margin: 0px;
 }
-.works {
-background-image: url('../images/Untitled_Knobs_bg.png'); 
+.video {
+/* background-image: url('../images/Untitled_Knobs_bg.png');  */
+background-color: rgb(38, 33, 58);
 background-position: center;
 background-repeat: space;
 background-size: cover;
-height: 6000px;   
+height: 10000px;   
 font-family: 'Courier New', Courier, monospace;
 font-style: italic;
 text-align: center; 
 font-size: 20px;
-color: rgb(206, 200, 200)
+color: rgb(148, 71, 71)
 }
 .alignleft {
 float: left;
