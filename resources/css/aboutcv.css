@@ -2,14 +2,12 @@ body {
         margin: 0px;
 }
 .cv {
-        /* background-image: url('../images/flower-hotelbloom.png');  */
-background-color: rgb(182, 140, 164);
-        background-position: center;
-        background-repeat: space;
-        background-size: cover;
-        height: 2000px;   
-        font-family: 'Courier New', Courier, monospace;
-        color: rgb(66, 26, 30);
-        font-style: italic;
+background-color: rgb(38, 33, 58);
+background-repeat: space;
+background-size: cover;
+height: 2000px;   
+font-family: 'Times New Roman', Times, serif;
+color: rgb(110, 69, 69);
+font-style: italic;
 text-align: left; 
-font-size: 20px;
+font-size: 18px;

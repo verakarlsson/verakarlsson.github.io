@@ -5,11 +5,168 @@
 <link href="./resources/css/aboutimages.css" rel="stylesheet" type="text/css" >
 </head>
 <body>
-<div class="images">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box}
+body {font-family: 'Times New Roman', Times, serif;
+font-style: italic;}
+.mySlides {display: none}
+img {vertical-align: middle;}
 
+/* Slideshow container */
+.slideshow-container {
+  max-width: 500px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: relative;
+  top: 50%;
+  width: 100px;
+  margin-top: -22px;
+  color: rgb(5, 5, 5);
+  font-weight: lighter;
+  font-size: 14px;
+  transition: 0.6s ease;
+  /* border-radius: 0 30px 30px 0; */
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+</style>
+</head>
+<body>
+<br>
+<div class="slideshow-container">
+<div class="mySlides fade">
+  <!-- <div class="numbertext">1 / 8</div> -->
+  <img src="../website-3/resources/images/b1-Untitled-9.jpg" style="width:100%">
+  <!-- <div class="text">Caption Text</div> -->
+</div>
+
+<div class="mySlides fade">
+  <!-- <div class="numbertext">2 / 8</div> -->
+  <img src="../website-3/resources/images/b1-Untitled-13.jpg" style="width:100%">
+  <!-- <div class="text">Caption Two</div> -->
+</div>
+
+<div class="mySlides fade">
+  <!-- <div class="numbertext">3 / 8</div> -->
+  <img src="../website-3/resources/images/b1-Untitled-17.jpg" style="width:100%">
+  <!-- <div class="text">Caption Three</div> -->
+</div>
+
+<div class="mySlides fade">
+    <!-- <div class="numbertext">4 / 8</div> -->
+    <img src="../website-3/resources/images/b1-Untitled-42.jpg" style="width:100%">
+    <!-- <div class="text">Caption Three</div> -->
+  </div>
+
+  <div class="mySlides fade">
+    <img src="../website-3/resources/images/b1-Untitled-88.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <!-- <div class="numbertext">6 / 8</div> -->
+    <img src="../website-3/resources/images/b1-Untitled-54.jpg" style="width:100%">
+    <!-- <div class="text">Caption Three</div> -->
+  </div>
+
+  <div class="mySlides fade">
+    <!-- <div class="numbertext">7 / 8</div> -->
+    <img src="../website-3/resources/images/b1-Untitled-61.jpg" style="width:100%">
+    <!-- <div class="text">Caption Three</div> -->
+  </div>
+
+  <div class="mySlides fade">
+    <!-- <div class="numbertext">8 / 8</div> -->
+    <img src="../website-3/resources/images/b1-Untitled-64.jpg" style="width:100%">
+    <!-- <div class="text">Caption Three</div> -->
+  </div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+Photography series with <a href="http://julijazaharijevic.com"target="_blank">Julija Zaharijevic</a> - on going
+<!-- for The Ladies Club  -->
+</div>
+<br>
+
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+
+</script>
+
+<div class="images">
+    
     <a href="./index.html">back</a>
 
 
-</div>
+<!-- </div>
+<div class="images2">
+<br>
+
+</div> -->
 </body>
 </html>

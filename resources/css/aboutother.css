@@ -2,15 +2,14 @@ body {
     margin: 0px;
 }
 .other {
-/* background-image: url('../images/whereisdonnie.png');  */
-background-color: rgb(30, 51, 6);
+background-color: rgb(38, 33, 58);
 background-position: center;
 background-repeat: space;
 background-size: cover;
 height: 1500px;   
-font-family: 'Courier New', Courier, monospace;
+font-family: 'Times New Roman', Times, serif;
 font-style: italic;
 text-align: left; 
-font-size: 20px;
+font-size: 18px;
 color: rgb(63, 8, 60)
 }

@@ -2,16 +2,15 @@ body {
     margin: 0px;
 }
 .Vera {
-/* background-image: url('../images/anne-zero.png');  */
 background-color: rgb(53, 66, 126);
 background-position: center;
 background-repeat: space;
 background-size: cover;
 height: 6000px;   
-font-family: 'Courier New', Courier, monospace;
+font-family: 'Times New Roman', Times, serif;
 font-style: italic;
 text-align: left;
-font-size: 20px;
+font-size: 18px;
 color: rgb(0, 0, 0)
 
 }

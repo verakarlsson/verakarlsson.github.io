@@ -2,15 +2,14 @@ body {
     margin: 0px;
 }
 .press {
-/* background-image: url('../images/Talk-fb.png');  */
-background-color: rgb(95, 51, 51);
+background-color: rgb(38, 33, 58);
 background-position: center;
 background-repeat: space;
 background-size: cover;
 height: 1000px;   
-font-family: 'Courier New', Courier, monospace;
+font-family: 'Times New Roman', Times, serif;
 font-style: italic;
 text-align: left; 
-font-size: 20px;
-color: rgb(0, 0, 0)
+font-size: 18px;
+color: rgb(110, 69, 69);
 }
