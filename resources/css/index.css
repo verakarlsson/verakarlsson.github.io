@@ -2,15 +2,15 @@ body {
     margin: 0px;
 }
 .Vera {
-background-color: rgb(53, 66, 126);
+background-color: white
 background-position: center;
 background-repeat: space;
 background-size: cover;
 height: 6000px;   
 font-family: 'Times New Roman', Times, serif;
-font-style: italic;
-text-align: left;
-font-size: 18px;
+font-size: 17px;
+margin-left: 10px;
+margin-top: 10px;
 color: rgb(0, 0, 0)
 
 }

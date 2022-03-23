@@ -2,12 +2,15 @@ body {
         margin: 0px;
 }
 .cv {
-background-color: rgb(38, 33, 58);
+background-color: white
 background-repeat: space;
 background-size: cover;
 height: 2000px;   
 font-family: 'Times New Roman', Times, serif;
-color: rgb(110, 69, 69);
-font-style: italic;
+margin-left: 10px;
+margin-top: 10px;
+color: rgb(0, 0, 0);
 text-align: left; 
-font-size: 18px;
+font-size: 17px;
+
+}

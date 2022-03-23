@@ -1,38 +1,12 @@
 body {
     margin: 0px;
 }
-.myslideshow-container {
-
-    font-family: 'Times New Roman', Times, serif;
-    font-style: italic;
-    text-align: left; 
-    font-size: 18px;
-    color: rgb(107, 66, 66)
-    
-}
 .images {
-    background-image: url('../images/Sculpture-Untitled.png'); 
-    background-position: center;
-    background-repeat: space;
-    background-size: cover;
-    height: 1000px;   
-    font-family: 'Times New Roman', Times, serif;
-    font-style: italic;
-    text-align: left; 
-    font-size: 18px;
-    color: rgb(107, 66, 66)
-    }
-
-/* .images2 {
-background-image: url('../images/Hotel_Bloom_Poster.png');
-background-position: center;
-background-repeat: space;
-background-size: cover;
-height: 1000px;   
+background-color: white;
 font-family: 'Times New Roman', Times, serif;
-font-style: italic;
-text-align: center;
-display: flex end;
-font-size: 18px;
-color: rgb(138, 66, 66)
-} */
+text-align: left; 
+font-size: 17px;
+margin-left: 10px;
+margin-top: 10px;
+color: rgb(63, 8, 60)
+}
