@@ -13,12 +13,7 @@ body {
     background-repeat: space;
     background-size: contain;
     height: 1200px; 
-    width: 1600px;  
+    width: 1400px;  
     font-family: 'Times New Roman', Times, serif;
-    font-style: italic;
-    text-align: center;
-    display: flex end;
-    font-size: 17px;
-    color: rgb(138, 66, 66)
     } 
     
