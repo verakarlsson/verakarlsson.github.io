@@ -1,5 +1,6 @@
 body {
     margin: 0px;
+
 }
 .work {
 text-align: center; 
@@ -9,7 +10,7 @@ background-repeat: space;
 background-size: cover;
 height: 6000px;   
 font-family: 'Times New Roman', Times, serif;
-font-size: 17px;
+font-size: 14px;
 margin-left: 10px;
 margin-top: 10px;
 color: rgb(0, 0, 0)
