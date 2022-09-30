@@ -2,15 +2,12 @@ body {
     margin: 0px;
 }
 .Vera {
-/* background-image: url('../images/draw-3.JPG'); */
+text-align: center; 
+background-image: url('../images/draw-3.JPG');
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
 height: 1500px; 
-width: 1500px;  
-text-align: center; 
-background-color: white;
-height: 1500px;   
 font-family: 'Times New Roman', Times, serif;
 font-size: 14px;
 margin-left: 10px;
