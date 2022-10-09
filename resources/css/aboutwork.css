@@ -2,6 +2,10 @@ body {
     margin: 0px;
 
 }
+.other {
+text-align: right;
+font-size: 14px;
+}
 .work {
 text-align: center; 
 background-color: white
