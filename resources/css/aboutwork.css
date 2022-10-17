@@ -1,10 +1,10 @@
 body {
-    margin: 0px;
+    margin: 30px;
 
 }
 .other {
 text-align: right;
-font-size: 14px;
+font-size: 12px;
 }
 .work {
 text-align: center; 
@@ -14,7 +14,7 @@ background-repeat: space;
 background-size: cover;
 height: 6000px;   
 font-family: 'Times New Roman', Times, serif;
-font-size: 14px;
+font-size: 12px;
 margin-left: 10px;
 margin-top: 10px;
 color: rgb(0, 0, 0)
