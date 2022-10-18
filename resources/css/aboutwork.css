@@ -1,5 +1,5 @@
 body {
-    margin: 30px;
+    margin: 0px;
 
 }
 .other {
@@ -8,11 +8,11 @@ font-size: 12px;
 }
 .work {
 text-align: center; 
-background-color: white
+background-image: url('../images/drawing-weed-IMG_6996.JPG');
 background-position: center;
-background-repeat: space;
+background-repeat: no-repeat;
 background-size: cover;
-height: 6000px;   
+height: 3000px; 
 font-family: 'Times New Roman', Times, serif;
 font-size: 12px;
 margin-left: 10px;
