@@ -1,8 +1,9 @@
 body {
-    margin: 0px;
+    margin: 10px;
 }
 .k {
-    font-size: 14px;
+    font-size: 13px;
+    float: center;
     width: 33.33%;
     padding: 5px;
   }
