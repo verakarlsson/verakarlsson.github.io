@@ -14,9 +14,11 @@ background-repeat: no-repeat;
 background-size: cover;
 height: 3000px; 
 font-family: 'Times New Roman', Times, serif;
-font-size: 12px;
+font-size: 22px;
+font-style: italic;
+/* text-transform: inherit; */
+/* -webkit-text-stroke: 0.4cqh; */
 margin-left: 10px;
 margin-top: 10px;
-color: rgb(0, 0, 0)
 
 }

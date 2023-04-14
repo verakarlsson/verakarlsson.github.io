@@ -2,8 +2,13 @@ body {
     margin: 10px;
 }
 .k {
-    font-size: 13px;
-    float: center;
-    width: 33.33%;
-    padding: 5px;
+text-align: left;
+text-decoration: wavy;
+text-decoration-style: double;
+font-size: 15px;
+/* font-style: italic; */
+text-transform: inherit;
+-webkit-text-stroke: 0.2cqh;
+width: 33.33%;
+padding: 5px;
   }
