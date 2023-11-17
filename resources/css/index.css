@@ -1,18 +1,25 @@
 body {
+    background-position: center;
+    background-size: cover;
     margin: 0px;
+    background-color: rgb(250, 252, 252);
 }
-.Vera {
+.text {
 text-align: center;
-background-image: url('../images/draw-3.JPG');
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: small;
+color: rgb(155, 76, 76);
+/* background-image: url('../images/draw-3.JPG');
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
-height: 1500px; 
-font-family: 'Times New Roman', Times, serif;
-text-decoration-style: double;
-font-size: 16px;
-text-transform: inherit;
--webkit-text-stroke: 0.2cqh;
-color: rgb(0, 0, 0)
+height: 1500px;  */
+}
+.cv {
+    margin: 15px;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    color: rgb(155, 76, 76);
 
 }

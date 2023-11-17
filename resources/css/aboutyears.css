@@ -1,0 +1,13 @@
+body {
+    background-position: center;
+    background-size: cover;
+    margin: 10px;
+    background-color: rgb(250, 252, 252);
+}
+.text {
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: small;
+color: rgb(155, 76, 76);
+
+}
