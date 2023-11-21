@@ -11,3 +11,10 @@ font-size: small;
 color: rgb(155, 76, 76);
 
 }
+.rightside {
+text-align: right;
+font-family: Georgia, 'Times New Roman', Times, serif;
+ font-size: small;
+ color: rgb(155, 76, 76);
+ 
+}
