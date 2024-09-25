@@ -3,15 +3,11 @@ body {
         margin: 0px;
 }
 .cv {
-/* background-image: url('../images/d-IMG_4311.JPG'); */
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
 height: 1000px; 
 font-family: 'Times New Roman', Times, serif;
+color: rgb(21, 208, 0);
 margin-left: 0px;
 margin-top: 0px;
-color: rgb(0, 0, 0);
 text-align: left; 
 font-size: 14px;
 
