@@ -2,13 +2,13 @@ body {
     background-position: center;
     background-size: cover;
     margin: 0px;
-    background-color: rgb(101, 66, 66);
+    background-color: rgb(233, 153, 153);
 }
 .text {
 text-align: center;
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: small;
-color: rgb(21, 208, 0);
+color: rgb(17, 166, 0);
 /* background-image: url('../images/draw-3.JPG');
 background-position: center;
 background-repeat: no-repeat;
