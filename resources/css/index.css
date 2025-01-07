@@ -1,15 +1,21 @@
+@font-face {
+    font-family: "Redaction50-Bold";
+    src: url(./resources/fonts/Redaction50-Bold.otf);
+    
+}
+
 body {
     background-position: center;
     background-size: cover;
     margin: 0px;
     background-color: rgb(249, 246, 246);
 }
+
 .text {
 text-align: center;
-/* font-family: 'Times New Roman', Times, serif; */
-font-family: Arial, Helvetica, sans-serif
+font-family: Redaction50-Bold;
 font-size: large;
-color: rgb(120, 120, 120);
+color: darkslategray;
 }
 .cv {
     color: black;
