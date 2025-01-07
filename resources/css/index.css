@@ -5,22 +5,18 @@ body {
     background-color: rgb(249, 246, 246);
 }
 .text {
-text-align: center;
+text-align: left;
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: small;
 color: rgb(4, 4, 4);
-/* background-image: url('../images/draw-3.JPG');
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
-height: 1500px;  */
 }
 .cv {
+    color: black;
     margin: 15px;
     text-align: left;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: small;
-    color: rgb(75, 58, 58);
+
 
 }
 a:hover {
