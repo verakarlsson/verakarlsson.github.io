@@ -5,10 +5,10 @@ body {
     background-color: rgb(249, 246, 246);
 }
 .text {
-text-align: left;
+text-align: center;
 font-family: Georgia, 'Times New Roman', Times, serif;
-font-size: small;
-color: rgb(4, 4, 4);
+font-size: medium;
+color: rgb(136, 128, 128);
 }
 .cv {
     color: black;
