@@ -6,13 +6,14 @@
 
 body {
     background-position: center;
-    background-image: url("./resources/images/d-IMG_4308.png");
+    background-image: url("d-IMG_4308.png");
     background-size: cover;
     margin: 0px;
     background-color: rgb(249, 246, 246);
 }
 
 .text {
+
 text-align: center;
 font-family: Redaction100-Regular;
 font-size: large;
