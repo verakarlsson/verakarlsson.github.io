@@ -1,9 +1,11 @@
-
+@font-face{
+    font-family:"redaction";
+    src:url{'../resources/redaction/Redaction_2_001/OTF/Redaction100-Regular.otf'};
 
 body {
-    background-position: center;
+    background-position:top;
     background-image: url('../images/d-IMG_4308.png');
-    background-size: cover;
+    background-size:cover;
     margin: 0px;
     background-color: rgb(249, 246, 246);
 }
