@@ -1,12 +1,14 @@
-@font-face{
-    font-family: "redaction";
-    src:url('redaction/Redaction100-Regular.otf');
+
+
+@font-face {
+font-family: "redaction";
+src:url('redaction/Redaction100-Regular.otf');
 
 }
 
 body {
     background-position:top;
-    background-image: url('../images/d-IMG_4308.png');
+    /* background-image: url('../images/d-IMG_4308.png'); */
     background-size:cover;
     margin: 0px;
     background-color: rgb(249, 246, 246);
