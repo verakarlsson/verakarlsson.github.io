@@ -1,12 +1,12 @@
 @font-face {
-    font-family: "Redaction50-Bold";
+    font-family: "Redaction100-Regular";
     src: url(./resources/fonts/Redaction50-Bold.otf);
     
 }
 
 body {
     background-position: center;
-    background-image: url("resources/images/d-IMG_4308.png");
+    background-image: url("./resources/images/d-IMG_4308.png");
     background-size: cover;
     margin: 0px;
     background-color: rgb(249, 246, 246);
@@ -14,7 +14,7 @@ body {
 
 .text {
 text-align: center;
-font-family: Redaction50-Bold;
+font-family: Redaction100-Regular;
 font-size: large;
 color: darkslategray;
 }
