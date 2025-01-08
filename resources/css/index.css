@@ -16,7 +16,8 @@ body {
 
 .text {
 
-text-align: center;
+text-align: left;
+margin: 15px;;
 font-family: "redaction";
 font-size: large;
 color: darkslategray;
