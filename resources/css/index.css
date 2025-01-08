@@ -17,8 +17,8 @@ body {
 .text {
 
 text-align: left;
-margin: 15px;;
-font-family: "redaction";
+margin: 15px;
+font-family: Arial, Helvetica, sans-serif;
 font-size: large;
 color: darkslategray;
 }
