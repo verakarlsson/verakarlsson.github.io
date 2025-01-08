@@ -1,6 +1,8 @@
 @font-face{
-    font-family:"redaction";
-    src:url{'../resources/redaction/Redaction_2_001/OTF/Redaction100-Regular.otf'};
+    font-family: "redaction";
+    src:url('redaction/Redaction100-Regular.otf');
+
+}
 
 body {
     background-position:top;
@@ -13,7 +15,7 @@ body {
 .text {
 
 text-align: center;
-font-family: Redaction100-Regular;
+font-family: "redaction";
 font-size: large;
 color: darkslategray;
 }
