@@ -15,6 +15,15 @@ body {
     background-color: rgb(162, 160, 160);
 }
 
+.text1 {
+
+    text-align: left;
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: rgb(4, 4, 4);
+    }
+
 .text {
 
 text-align: center;
@@ -23,6 +32,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: medium;
 color: rgb(4, 4, 4);
 }
+
 .cv {
     color: black;
     margin: 15px;
