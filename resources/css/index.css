@@ -11,7 +11,8 @@ body {
     /* background-image: url('../images/d-IMG_4308.png'); */
     background-size:cover;
     margin: 0px;
-    background-color: rgb(225, 172, 126);
+    /* background-color: rgb(225, 126, 126); */
+    background-color: rgb(162, 160, 160);
 }
 
 .text {
@@ -20,7 +21,7 @@ text-align: center;
 margin: 15px;
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: medium;
-color: darkslategray;
+color: rgb(4, 4, 4);
 }
 .cv {
     color: black;
@@ -32,5 +33,6 @@ color: darkslategray;
 
 }
 a:hover {
-    color: darkorange;
+    /* color: darkorange; */
+    color: whitesmoke;
     }
