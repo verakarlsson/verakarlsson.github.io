@@ -30,7 +30,7 @@ text-align: center;
 margin: 15px;
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: medium;
-color: rgb(4, 4, 4);
+color: whitesmoke;
 }
 
 .cv {
@@ -44,5 +44,5 @@ color: rgb(4, 4, 4);
 }
 a:hover {
     /* color: darkorange; */
-    color: whitesmoke;
+    color: black;
     }
