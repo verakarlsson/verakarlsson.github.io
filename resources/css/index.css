@@ -42,6 +42,17 @@ color: rgb(250, 234, 234);
 
 
 }
+
+.email {
+    color: black;
+    margin: 15px;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+
+}
+
+
 a:hover {
     /* color: darkorange; */
     color: black;
