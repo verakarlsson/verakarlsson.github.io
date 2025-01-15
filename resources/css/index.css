@@ -16,12 +16,12 @@ body {
 }
 
 .text1 {
-
-    text-align: left;
-    margin: 20px;
+    text-align: center;
+    margin: 15px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: medium;
-    color: rgb(4, 4, 4);
+    color: rgb(250, 234, 234);
+
     }
 
 .text {
@@ -30,7 +30,7 @@ text-align: center;
 margin: 15px;
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: medium;
-color: rgb(250, 234, 234);
+color: rgb(203, 90, 251);
 }
 
 .cv {
