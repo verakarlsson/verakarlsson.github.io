@@ -12,7 +12,7 @@ body {
     background-size:cover;
     margin: 0px;
     /* background-color: rgb(225, 126, 126); */
-    background-color: rgb(141, 141, 141);
+    background-color: rgb(110, 110, 110);
 }
 
 .text1 {
@@ -20,7 +20,7 @@ body {
     margin: 15px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: medium;
-    color: rgb(247, 77, 207);
+    color: rgb(252, 108, 218);
 
     }
 
@@ -30,8 +30,7 @@ text-align: center;
 margin: 15px;
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: medium;
-color:  rgb(247, 77, 207);
-background-color: rgb(141, 141, 141);
+color: rgb(252, 108, 218);
 }
 
 .cv {
