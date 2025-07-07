@@ -3,7 +3,7 @@ body {
     background-size: cover;
     margin: 10px;
     /* background-color: rgb(170, 209, 161); */
-    color: white;
+    color: rgb(122, 121, 121);
 
 }
 
@@ -11,7 +11,7 @@ body {
 text-align: center;
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: small;
-color: rgb(6, 7, 6);
+color: rgb(247, 77, 207);
 
 }
 .rightside {
