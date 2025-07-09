@@ -8,11 +8,9 @@ src:url('redaction/Redaction100-Regular.otf');
 
 body {
     background-position:top;
-    /* background-image: url('../images/d-IMG_4308.png'); */
     background-size:cover;
     margin: 0px;
-    /* background-color: rgb(225, 126, 126); */
-    color: rgb(132, 130, 130);
+    color: rgb(159, 158, 158);
 }
 
 .text1 {
