@@ -10,7 +10,7 @@ body {
     background-position:top;
     background-size:cover;
     margin: 0px;
-    background-color: rgb(248, 243, 243);
+    background-color: rgb(0, 0, 0);
 }
 
 .text1 {
@@ -27,7 +27,7 @@ body {
 text-align: center;
 margin: 15px;
 font-family: Georgia, 'Times New Roman', Times, serif;
-font-size: medium;
+font-size: small;
 color: rgb(252, 108, 218);
 }
 

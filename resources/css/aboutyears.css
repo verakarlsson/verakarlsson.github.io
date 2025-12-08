@@ -2,15 +2,16 @@ body {
     background-position: center;
     background-size: cover;
     margin: 10px;
-    background-color: rgb(216, 213, 213);
-
+    background-color: rgb(5, 5, 5);
+   /* background-color: rgb(216, 213, 213); */
 }
 
 .text {
 text-align: center;
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: small;
-color: rgb(74, 73, 74);
+color: rgb(198, 182, 198);
+/* color: rgb(74, 73, 74); */
 
 }
 .center-video {
