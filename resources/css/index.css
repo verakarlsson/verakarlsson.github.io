@@ -13,16 +13,16 @@ body {
 text-align: center;
 margin: 15px;
 font-family: Georgia, 'Times New Roman', Times, serif;
-font-size: small;
+font-size: medium;
 color: rgb(252, 108, 218);
 }
 
 .cv {
-    color:  rgb(247, 77, 207);
-    margin: 15px;
-    text-align: center
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: small;
+color:  rgb(247, 77, 207);
+margin: 15px;
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: medium;
 }
 
 .email {
