@@ -3,15 +3,17 @@ body {
     background-size: cover;
     margin: 10px;
     background-color: rgb(5, 5, 5);
-   /* background-color: rgb(216, 213, 213); */
+
 }
 
 .text {
+margin-top: 10px;
+margin-bottom: 10px;
 text-align: center;
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: small;
 color: rgb(198, 182, 198);
-/* color: rgb(74, 73, 74); */
+
 
 }
 .center-video {
@@ -19,14 +21,8 @@ color: rgb(198, 182, 198);
     margin: 0 auto; /* centers horizontally */
 }
 
-.rightside {
-text-align: right;
-font-family: Georgia, 'Times New Roman', Times, serif;
- font-size: small;
- color: rgb(155, 76, 76);
- 
-}
+
 a:hover {
     /* color: rgb(52, 85, 52); */
-    color: black;
+    color: rgb(170, 168, 168);
     }
