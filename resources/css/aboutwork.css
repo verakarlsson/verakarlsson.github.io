@@ -27,6 +27,6 @@ color: rgb(170, 168, 168);
 
 /* Add spacing between paragraphs on work.html */
 .text p {
-	margin: 10em; /* space below each paragraph */
+	margin: 30em; /* space below each paragraph */
 
 }
