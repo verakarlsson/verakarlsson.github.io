@@ -36,3 +36,8 @@ font-size: medium;
 a:hover {
 color: rgb(252, 108, 218);
 }
+
+/* Paragraph spacing site-wide */
+p {
+	margin: 0 0 1.5em; /* space below each paragraph */
+}

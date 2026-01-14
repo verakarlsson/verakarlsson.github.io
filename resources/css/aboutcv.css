@@ -12,3 +12,8 @@ text-align: left;
 font-size: 14px;
 
 }
+
+/* Paragraph spacing site-wide */
+p {
+        margin: 0 0 1.5em;
+}
