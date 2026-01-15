@@ -37,8 +37,7 @@ color: rgb(170, 168, 168);
   width: 100% !important;
   max-width: 500px !important;
   height: auto !important;
-  aspect-ratio: 4 / 5 !important; /* standardize to portrait aspect ratio */
-  object-fit: cover;
+  object-fit: contain;
 }
 
 /* Standardize all video iframes */
