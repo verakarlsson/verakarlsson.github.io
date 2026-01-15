@@ -21,7 +21,7 @@ margin: 0 auto; /* centers horizontally */
 
 
 a:hover {
-color: rgb(170, 168, 168);
+color: rgb(187, 149, 181);
 }
 
 /* Add spacing between paragraphs on work.html */
@@ -48,4 +48,5 @@ iframe {
   display: block;
   margin: 0 auto 1em;
   max-width: 600px;
+  text-align: center;
 }
