@@ -35,6 +35,7 @@ color: rgb(170, 168, 168);
 .text iframe {
   display: block;
   margin: 0 auto 1em; /* centers horizontally, adds space below */
-  max-width: 100%;
+  width: 100%;
+  max-width: 600px; /* limit max width for large screens */
   height: auto;
 }
