@@ -34,9 +34,11 @@ color: rgb(170, 168, 168);
 .text img {
   display: block;
   margin: 0 auto 1em; /* centers horizontally, adds space below */
-  width: 100%;
-  max-width: 600px; /* limit max width for large screens */
-  height: auto;
+  width: 100% !important;
+  max-width: 500px !important;
+  height: auto !important;
+  aspect-ratio: 4 / 5 !important; /* standardize to portrait aspect ratio */
+  object-fit: cover;
 }
 
 /* Standardize all video iframes */
