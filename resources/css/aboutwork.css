@@ -31,11 +31,20 @@ color: rgb(170, 168, 168);
 }
 
 /* Center images and iframes */
-.text img,
-.text iframe {
+.text img {
   display: block;
   margin: 0 auto 1em; /* centers horizontally, adds space below */
   width: 100%;
   max-width: 600px; /* limit max width for large screens */
   height: auto;
+}
+
+/* Standardize all video iframes */
+iframe {
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 16 / 9 !important;
+  display: block;
+  margin: 0 auto 1em;
+  max-width: 600px;
 }
