@@ -13,3 +13,41 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: small;
 color: rgb(0, 0, 0);
 
+}
+
+
+.center-video {
+display: block;
+margin: 0 auto; /* centers horizontally */
+}
+
+
+a:hover {
+color: rgb(187, 149, 181);
+}
+
+/* Add spacing between paragraphs on work.html */
+.text p {
+	margin: 30em; /* space below each paragraph */
+
+}
+
+/* Center images and iframes */
+.text img {
+  display: block;
+  margin: 0 auto 1em; /* centers horizontally, adds space below */
+  width: 100% !important;
+  max-width: 500px !important;
+  height: auto !important;
+  object-fit: contain;
+}
+
+/* Standardize all video iframes */
+iframe {
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 16 / 9 !important;
+  display: block;
+  margin: 0 auto 1em;
+  max-width: 600px;
+}
