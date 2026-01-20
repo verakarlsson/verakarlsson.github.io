@@ -28,7 +28,7 @@ color: rgb(187, 149, 181);
 
 /* Add spacing between paragraphs on work.html */
 .text p {
-	margin: 30em; /* space below each paragraph */
+	margin: 20em; /* space below each paragraph */
 
 }
 
@@ -37,7 +37,7 @@ color: rgb(187, 149, 181);
   display: block;
   margin: 0 auto 1em; /* centers horizontally, adds space below */
   width: 100% !important;
-  max-width: 500px !important;
+  max-width: 600px !important;
   height: auto !important;
   object-fit: contain;
 }
