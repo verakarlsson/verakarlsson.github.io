@@ -35,7 +35,7 @@ color: rgb(187, 149, 181);
   display: block;
   margin: 0 auto 1em; /* centers horizontally, adds space below */
   width: 100% !important;
-  max-width: 500px !important;
+  max-width: 1000px !important;
   height: auto !important;
   object-fit: contain;
 }
@@ -47,5 +47,5 @@ iframe {
   aspect-ratio: 16 / 9 !important;
   display: block;
   margin: 0 auto 1em;
-  max-width: 600px;
+  max-width: 1000px;
 }
