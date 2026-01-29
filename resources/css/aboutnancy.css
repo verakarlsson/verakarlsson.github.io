@@ -37,8 +37,8 @@ margin: 0 auto; /* centers horizontally */
 .text img {
   display: block;
   margin: 0 auto 1em; /* centers horizontally, adds space below */
-  width: 90% !important;
-  max-width: 1400px !important;
+  width: 100% !important;
+  max-width: 1600px !important;
   height: auto !important;
   object-fit: contain;
 }
