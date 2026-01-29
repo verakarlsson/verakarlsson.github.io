@@ -2,7 +2,7 @@ body {
 background-position: center;
 background-size: cover;
 margin: 20px;
-background-color: rgb(194, 194, 194);
+background-color: rgb(109, 98, 103);
 }
 
 
@@ -50,5 +50,5 @@ iframe {
   aspect-ratio: 16 / 9 !important;
   display: block;
   margin: 0 auto 1em;
-  max-width: 1400px !important;
+  max-width: 1600px !important;
 }
