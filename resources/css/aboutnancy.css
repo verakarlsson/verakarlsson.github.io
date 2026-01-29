@@ -36,7 +36,7 @@ margin: 0 auto; /* centers horizontally */
 /* Center images and iframes */
 .text img {
   display: block;
-  margin: 0 auto 1em; /* centers horizontally, adds space below */
+  margin: 0 auto 1px; /* centers horizontally, adds space below */
   width: 100% !important;
   max-width: 1600px !important;
   height: auto !important;
