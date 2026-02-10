@@ -1,0 +1,53 @@
+body {
+  background-position: center;
+  background-size: cover;
+  margin: 20px;
+  background-color: rgb(255, 254, 255);
+}
+
+.text {
+  text-align: left;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: medium;
+  color: black;
+}
+
+.video {
+  float: right;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.video iframe {
+  width: 100%;
+  max-width: 512px;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  display: block;
+}
+
+a:hover {
+  color: rgb(187, 149, 181);
+}
+
+.text p {
+  margin: 30em;
+}
+
+.text img {
+  display: block;
+  margin: 0 auto 1em;
+  width: 95% !important;
+  max-width: 1600px !important;
+  height: auto !important;
+  object-fit: contain;
+}
+
+iframe {
+  width: 95% !important;
+  height: auto !important;
+  aspect-ratio: 16 / 9 !important;
+  display: block;
+  margin: 0 auto 1em;
+  max-width: 1600px !important;
+}
