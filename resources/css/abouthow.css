@@ -12,7 +12,7 @@ body {
 }
 
 .text {
-  flex: 1 1 50%;
+  flex: 1 1 65%;
   text-align: left;
   font-family: Helvetica, Arial, sans-serif;
   font-size: medium;
@@ -22,8 +22,8 @@ body {
 }
 
 .video {
-  flex: 0 0 48%;
-  max-width: 48%;
+  flex: 0 0 32%;
+  max-width: 32%;
   box-sizing: border-box;
   padding-left: 12px;
   display: flex;
