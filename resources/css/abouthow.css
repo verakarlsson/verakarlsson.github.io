@@ -13,7 +13,7 @@ body {
 
 .text {
   flex: 1 1 65%;
-  text-align: left;
+  text-align: right;
   font-family: Helvetica, Arial, sans-serif;
   font-size: medium;
   color: black;
