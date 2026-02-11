@@ -8,6 +8,7 @@ background-color: rgb(255, 254, 255);
 .text {
 /* margin-bottom: 10px; */
 text-align: left;
+margin: 4em;
 font-family: Arial, Helvetica, sans-serif;
 font-size: medium;
 color: black
