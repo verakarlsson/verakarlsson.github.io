@@ -30,14 +30,14 @@ color: rgb(187, 149, 181);
 
 /* Add spacing between paragraphs on work.html */
 .text p {
-	margin: 2em; /* space below each paragraph */
+	margin: 4em; /* space below each paragraph */
 
 }
 
 /* Center images and iframes */
 .text img {
   display: block;
-  margin: 0 auto 4em; /* centers horizontally, adds space below */
+  margin: 4em auto 4em; /* centers horizontally, adds space below */
   width: 95% !important;
   max-width: 1600px !important;
   height: auto !important;
