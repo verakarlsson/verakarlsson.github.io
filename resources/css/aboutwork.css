@@ -37,7 +37,7 @@ color: rgb(187, 149, 181);
 /* Center images and iframes */
 .text img {
   display: block;
-  margin: 0 auto 10em; /* centers horizontally, adds space below */
+  margin: 4em auto 4em; /* centers horizontally, adds space below */
   width: 95% !important;
   max-width: 1600px !important;
   height: auto !important;
