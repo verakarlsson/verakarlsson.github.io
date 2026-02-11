@@ -21,7 +21,8 @@ text-align: center;
 
 .center-video {
 display: block;
-margin: 0 auto; /* centers horizontally */
+/* margin: 0 auto; centers horizontally */
+margin: 4em auto 4em;
 }
 
 
