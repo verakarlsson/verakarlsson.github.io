@@ -16,8 +16,11 @@ color: black
 
 .images {
 text-align: center;
-margin: 4em auto 14em;
+margin: 4em auto 4em;
 width: 60% !important;
+max-width: 900px !important;
+height: auto !important;
+object-fit: contain;
 }
 
 .center-video {
