@@ -10,6 +10,7 @@ background-color: rgb(255, 254, 255);
 text-align: left;
 margin: 4em auto 14em;
 width: 60% !important;
+height:60% !important;
 font-family: Arial, Helvetica, sans-serif;
 font-size: medium;
 color: black
@@ -26,6 +27,7 @@ display: block;
 /* margin: 0 auto; centers horizontally */
 margin: 4em auto 4em;
 width: 60% !important;
+
 }
 
 
