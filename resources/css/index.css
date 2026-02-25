@@ -15,7 +15,7 @@ body, .vera, .cv, .email, .text {
 
 /* Add shadow to all links */
 a {
-	box-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+	/* box-shadow: 2px 2px 8px rgba(0,0,0,0.4); */
 	text-shadow: 2px 2px 6px rgba(0,0,0,0.5), 0 1px 0 #fff;
 }
 
