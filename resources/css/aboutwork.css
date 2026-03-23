@@ -91,3 +91,18 @@ footer p {
   height: auto;
   object-fit: cover;
 }
+
+.photogrid2 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin: 2em auto;
+  width: 90%;
+  max-width: 1200px;
+}
+
+.photogrid2 img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
