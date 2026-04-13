@@ -11,7 +11,7 @@ background-color: rgb(73, 73, 84);
 /* margin-bottom: 10px; */
 text-align: left;
 margin: 2em auto 4em;
-width: 80% !important;
+width: 90% !important;
 font-family: Arial, Helvetica, sans-serif;
 font-size: medium;
 color: black
@@ -77,4 +77,34 @@ footer {
 
 footer p {
   font-family: Helvetica, Arial, sans-serif;
+}
+
+.photogrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: 2em auto;
+  width: 90%;
+  max-width: 1200px;
+}
+
+.photogrid img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.photogrid2 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin: 2em auto;
+  width: 90%;
+  max-width: 1200px;
+}
+
+.photogrid2 img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
 }
