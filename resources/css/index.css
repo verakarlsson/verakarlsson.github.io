@@ -5,7 +5,7 @@ background-color: black;
 background-position:top;
 background-size:cover;
  margin: 0px;
-background-color: rgb(193, 170, 175);
+background-color: rgb(126, 107, 111);
 }
 
 /* Add shadow to all text */
@@ -23,7 +23,7 @@ a {
 color: rgb(163, 88, 128);
 margin: 15px;
 text-align: center;
-font-family: times new roman, times, serif;
+font-family: helvetica, arial, sans-serif;
 font-size: medium;
 }
 .text {
