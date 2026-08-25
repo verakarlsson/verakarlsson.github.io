@@ -5,7 +5,7 @@ background-color: black;
 background-position:top;
 background-size:cover;
  margin: 0px;
-background-color: rgb(126, 107, 111);
+background-color: rgb(134, 120, 122);
 }
 
 /* Add shadow to all text */
@@ -20,7 +20,7 @@ a {
 }
 
 .vera {
-color: rgb(163, 88, 128);
+color: rgb(183, 75, 116);
 margin: 15px;
 text-align: center;
 font-family: helvetica, arial, sans-serif;
