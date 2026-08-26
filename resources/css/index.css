@@ -8,7 +8,6 @@ background-size:cover;
 background-color: rgb(134, 120, 122);
 }
 
-
 .vera {
 color: rgb(183, 75, 116);
 margin: 15px;
@@ -16,6 +15,7 @@ text-align: center;
 font-family: helvetica, arial, sans-serif;
 font-size: medium;
 }
+
 .text {
 margin-bottom: 10px;
 text-align: left;
