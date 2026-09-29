@@ -7,7 +7,7 @@ background-color: rgb(255, 254, 255);
 
 .text {
 /* margin-bottom: 10px; */
-text-align: center;
+text-align: left;
 margin: 1em auto 2em;
 width: 90% !important;
 font-family: Arial, Helvetica, sans-serif;

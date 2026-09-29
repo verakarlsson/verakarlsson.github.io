@@ -3,18 +3,17 @@ body {
 background-position: center;
 background-size: cover;
 margin: 20px;
-background-color: rgb(73, 73, 84);
+background-color: rgb(255, 254, 255);
 }
 
-
 .text {
-/* margin-bottom: 10px; */
-text-align: left;
-margin: 2em auto 4em;
-width: 90% !important;
-font-family: Arial, Helvetica, sans-serif;
+margin-bottom: 10px;
+text-align: center;
+margin: 15px;
+font-family: helvetica, arial, sans-serif;
 font-size: medium;
-color: rgb(147, 77, 85)
+font-weight: bold;
+color: rgb(163, 88, 128);
 }
 
 .images {
