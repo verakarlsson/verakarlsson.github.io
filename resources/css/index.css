@@ -13,7 +13,8 @@ color: rgb(156, 72, 104);
 margin: 15px;
 text-align: center;
 font-family: helvetica, arial, sans-serif;
-font-size: x-large;
+font-size:large;
+font-weight: bold;
 }
 
 .text {
