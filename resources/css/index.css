@@ -5,15 +5,15 @@ background-color: black;
 background-position:top;
 background-size:cover;
  margin: 0px;
-background-color: rgb(140, 106, 111);
+background-color: rgb(134, 120, 122);
 }
 
 .vera {
-color: rgb(195, 74, 120);
+color: rgb(183, 75, 116);
 margin: 15px;
 text-align: center;
 font-family: helvetica, arial, sans-serif;
-font-size: large, bold;
+font-size: x-large;
 }
 
 .text {
