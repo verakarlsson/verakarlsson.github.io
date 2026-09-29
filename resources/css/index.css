@@ -19,10 +19,11 @@ font-weight: bold;
 
 .text {
 margin-bottom: 10px;
-text-align: left;
+text-align: center;
 margin: 15px;
 font-family: helvetica, arial, sans-serif;
 font-size: medium;
+font-weight: bold;
 color: rgb(163, 88, 128);
 }
 
