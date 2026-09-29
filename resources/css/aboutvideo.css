@@ -16,6 +16,15 @@ font-weight: bold;
 color: rgb(163, 88, 128);
 }
 
+.text2 {
+text-align: left;
+margin: 1em auto 2em;
+width: 90% !important;
+font-family: Arial, Helvetica, sans-serif;
+font-size: medium;
+color: black
+}
+
 .images {
 text-align: center;
 margin: 4em auto 4em;
