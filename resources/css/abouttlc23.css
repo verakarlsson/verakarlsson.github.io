@@ -42,7 +42,7 @@ color: rgb(187, 149, 181);
 .text img {
   align-content: center;
   display: block;
-  margin: 0 auto 1em; /* centers horizontally, adds space below */
+  margin: 0 auto 0.5em; /* centers horizontally and keeps captions close */
   width: 100% !important;
   max-width: 600px !important;
   height: auto !important;
