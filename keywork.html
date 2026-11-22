@@ -11,12 +11,18 @@
 <p>
 
 <img src="./resources/images/keywork-collages-install.jpeg" alt="">
+<br> 
 Install Keywork, collages
-<img src="./resources/images/Keywork2-2-scan.jpeg" alt="">
-<img src="./resources/images/Keywork4-scan.jpeg" alt="">
-<img src="./resources/images/keywork-ins-4.jpeg" alt="">
+<span class="keywork-slideshow" role="group" aria-label="Keywork collage scans">
+  <img id="keywork-slide" src="./resources/images/Keywork2-2-scan.jpeg" alt="Keywork collage scan 1">
+  <span class="keywork-slideshow-controls">
+    <button type="button" id="keywork-previous" aria-label="Previous image">←</button>
+    <button type="button" id="keywork-next" aria-label="Next image">→</button>
+  </span>
+</span>
+<br> 
 two of five scans, collages in Keywork
-
+<img src="./resources/images/keywork-ins-4.jpeg" alt="">
 <iframe src="https://player.vimeo.com/video/889855025?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="unless useless"></iframe>
 Unless useless <br>
 video with sound <br>
@@ -38,6 +44,27 @@ It's theamatic was continued in the exhibition <a href="keyworks.html">Keyworks<
 <!-- <img src="./resources/images/keywork-collages installl 2 copy.JPG" alt=""> -->
 </p>
 </div>
+<script>
+  const keyworkSlides = [
+    { src: "./resources/images/Keywork2-2-scan.jpeg", alt: "Keywork collage scan 1" },
+    { src: "./resources/images/Keywork4-scan.jpeg", alt: "Keywork collage scan 2" }
+  ];
+  let currentKeyworkSlide = 0;
+
+  function showKeyworkSlide(index) {
+    currentKeyworkSlide = (index + keyworkSlides.length) % keyworkSlides.length;
+    const slide = keyworkSlides[currentKeyworkSlide];
+    document.getElementById("keywork-slide").src = slide.src;
+    document.getElementById("keywork-slide").alt = slide.alt;
+  }
+
+  document.getElementById("keywork-previous").addEventListener("click", () => {
+    showKeyworkSlide(currentKeyworkSlide - 1);
+  });
+  document.getElementById("keywork-next").addEventListener("click", () => {
+    showKeyworkSlide(currentKeyworkSlide + 1);
+  });
+</script>
 </body>
 <footer>
 <p>&copy; Vera Karlsson </p>
