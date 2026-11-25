@@ -1,4 +1,8 @@
 /* Styles for images in psycomancy.html */
+a {
+  color: inherit;
+}
+
 .images img {
   display: block;
   margin: 2em auto 0.5em;

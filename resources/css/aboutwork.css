@@ -5,6 +5,10 @@ margin: 20px;
 background-color: rgb(255, 254, 255);
 }
 
+a {
+color: inherit;
+}
+
 .text {
 /* margin-bottom: 10px; */
 text-align: left;

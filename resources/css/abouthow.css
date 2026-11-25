@@ -4,6 +4,10 @@ body {
   background-color: rgb(255, 254, 255);
 }
 
+a {
+  color: inherit;
+}
+
 .two-column {
   display: flex;
   gap: 24px;
